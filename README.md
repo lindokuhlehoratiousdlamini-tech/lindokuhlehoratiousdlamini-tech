@@ -28,13 +28,16 @@ I’m currently diving into projects that fuse technology with creative teaching
 - Free learning platforms and resources
 - My journey and tips for beginners
 ## ✨Badges
-CloadPracBadge
+
+<img width="340" height="340" alt="519251329-8dfd8362-8a74-42c0-bdc1-69c83b89c411" src="https://github.com/user-attachments/assets/b6cbf1d0-6094-445a-b417-b1c1c8e928d9" />
+
 ## 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/lindoe-precious-6a5036349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Email: lindokuhlehoratiousdlamini@gmail.com
-- Instagram: Lindokuhle Dlamini
-- Facebook: Lindokuhle Dlamini
-## Let's connect, collaborate, and build something great together!
+- *LinkedIn*: https://www.linkedin.com/in/lindoe-precious-6a5036349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- *Email*: lindokuhlehoratiousdlamini@gmail.com
+- *Instagram*: Lindokuhle Dlamini
+- *Facebook*: Lindokuhle Dlamini
+  
+## ***Let's connect, collaborate, and build something great together!***
 
 <!--
 **lindokuhlehoratiousdlamini-tech/lindokuhlehoratiousdlamini-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
