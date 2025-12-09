@@ -31,6 +31,25 @@ I’m currently diving into projects that fuse technology with creative teaching
 
 <img width="340" height="340" alt="519251329-8dfd8362-8a74-42c0-bdc1-69c83b89c411" src="https://github.com/user-attachments/assets/b6cbf1d0-6094-445a-b417-b1c1c8e928d9" />
 
+## 📂 Projects
+
+A showcase of the hands on projects I am currently completing during the intensive AWS re/Start program. Through these practical exercises, I've built a strong foundation in cloud computing and gained valuable experience in designing, deploying, and managing solutions on Amazon Web Services.
+
+**Project 1: S3 Static Website Hosting**
+
+This project focuses on rebuilding and migrating the Zoe Fitness website from traditional hosting to AWS Cloud. It demonstrates how a static website built with HTML, CSS, and JavaScript can be hosted on AWS S3 and accelerated with CloudFront, secured with SSL, and optimized for global performance using services within the AWS Free Tier.
+
+https://github.com/lindokuhlehoratiousdlamini-tech/aws-reStart-Journey/tree/main/Project/Creating%20a%20Static%20Website
+
+**Project 2: AWS Architecture**
+
+This project focuses on rebuilding and migrating the Zoe Fitness website from traditional hosting to AWS Cloud. It demonstrates how a static website built with HTML, CSS, and JavaScript can be hosted on AWS S3 and accelerated with CloudFront, secured with SSL, and optimized for global performance using services within the AWS Free Tier.
+
+https://github.com/lindokuhlehoratiousdlamini-tech/aws-reStart-Journey/tree/main/Project/3D%20Architecture
+
+**Project 3: ChatBot**
+
+*coming soon...*
 ## 📫 Let's Connect
 - *LinkedIn*: https://www.linkedin.com/in/lindoe-precious-6a5036349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - *Email*: lindokuhlehoratiousdlamini@gmail.com
