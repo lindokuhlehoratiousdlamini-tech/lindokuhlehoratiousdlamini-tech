@@ -54,7 +54,10 @@ https://github.com/lindokuhlehoratiousdlamini-tech/aws-reStart-Journey/tree/main
 
 **Project 3: ChatBot**
 
-*coming soon...*
+This project is a chatbot developed by our group to provide interactive and intelligent conversations with users. It is designed to be simple, flexible, and easy to expand for different use cases such as customer support, learning assistance, or general conversation.
+
+https://github.com/lindokuhlehoratiousdlamini-tech/aws-reStart-Journey/tree/main/Project/ChatBot
+
 ## 📫 Let's Connect
 - *LinkedIn*: https://www.linkedin.com/in/lindoe-precious-6a5036349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - *Email*: lindokuhlehoratiousdlamini@gmail.com
