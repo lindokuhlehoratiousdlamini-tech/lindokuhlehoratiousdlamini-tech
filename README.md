@@ -90,7 +90,7 @@ https://github.com/lindokuhlehoratiousdlamini-tech/aws-reStart-Journey/tree/main
 ## 📫 Let's Connect
 - *LinkedIn*: https://www.linkedin.com/in/lindoe-precious-6a5036349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app | *Email*: lindokuhlehoratiousdlamini@gmail.com
 
-## ***Thank you for visiting my page and exploring my work!***
+## *Thank you for visiting my page and exploring my work!*
 
 <!--
 **lindokuhlehoratiousdlamini-tech/lindokuhlehoratiousdlamini-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
