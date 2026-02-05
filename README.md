@@ -7,7 +7,7 @@ I’m passionate about blending technology, teaching, and graphic design to crea
 
 I am coming from a non-technical background, I once thought tech was too complex to be a space I could thrive in until I joined a Robotics club back in high school. That experience planted the first seed of my interest in technology. Since then, I’ve reignited that spark by joining AWS re/Start, a life changing opportunity that has helped me build foundational cloud computing knowledge and hands-on experience in areas like Linux, AWS services, security, networking, and more. I've learned to deploy static websites on S3, work with databases, and understand how cloud infrastructure supports real-world applications.
 
-## ⋆.˚☁️⋆AWS re/Start Journey
+## ⋆.˚☁️⋆ AWS re/Start Journey
 Recently, I completed the intensive AWS re/Start program, where I built a robust foundation in cloud technologies. Beyond the practical projects showcased here, the program provided me with:
 - Comprehensive theoretical knowledge of core AWS services and their interconnections.
 - A deep understanding of cloud best practices in areas like security, cost optimization, and operational excellence.
