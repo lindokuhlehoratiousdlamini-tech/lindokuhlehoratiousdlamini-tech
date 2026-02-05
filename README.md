@@ -22,6 +22,7 @@ This holistic experience has equipped me with both the technical acumen and the 
 <img width="200" height="200" alt="badge badge" src="https://github.com/user-attachments/assets/d533c513-ea34-44e6-889c-887ca16807a3" />
 <img width="200" height="200" alt="badge" src="https://github.com/user-attachments/assets/c8491ef0-4af5-47a3-b21a-0802f15381a7" />
 <img width="200" height="200" alt="519251329-8dfd8362-8a74-42c0-bdc1-69c83b89c411" src="https://github.com/user-attachments/assets/b6cbf1d0-6094-445a-b417-b1c1c8e928d9" />
+</p>
 
 ## 🔧 Currently Working On
 I’m currently diving into projects that fuse technology with creative teaching, like developing interactive graphic tutorials and designing visual learning kits that simplify complex ideas. I’m experimenting with tools such as Figma for design, alongside coding basics in HTML/CSS and JavaScript to build small educational web apps. My focus is on creating open-source resources that fellow students and teachers can freely use and contribute to, while I keep refining my skills in both design and tech.
