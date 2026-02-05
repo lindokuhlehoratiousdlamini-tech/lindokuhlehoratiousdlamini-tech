@@ -1,7 +1,6 @@
 ## Hi there I`m Lindokuhle Dlamini 👋
 I’m passionate about blending technology, teaching, and graphic design to create engaging learning experiences. I love digging into new tools, turning complex ideas into clear visuals, and sharing that knowledge with others. Whether it’s coding interactive tutorials, designing eye catching educational graphics, or mentoring peers, I thrive on making learning both fun and accessible. This drive fuels everything I put on GitHub, from open‑source lesson packs to visually rich project demos.
 
-I am deeply passionate about cloud computing because I believe it is more than just the future,it's the engine of modern innovation. I'm fascinated by its potential to empower businesses of all sizes, offering unprecedented scalability, flexibility, and security. My ultimate goal as a Solutions Architect is to be at the forefront of this transformation, leveraging my skills to design elegant, impactful solutions that harness the full power of the cloud. This passion is the driving force behind my continuous learning and my commitment to helping businesses not just adapt, but thrive in the digital age.
 
 # 😁 About Me
 ## **Background**
