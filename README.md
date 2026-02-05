@@ -24,36 +24,50 @@ This holistic experience has equipped me with both the technical acumen and the 
 <img width="200" height="200" alt="519251329-8dfd8362-8a74-42c0-bdc1-69c83b89c411" src="https://github.com/user-attachments/assets/b6cbf1d0-6094-445a-b417-b1c1c8e928d9" />
 </p>
 
-## 🔧 Currently Working On
-I’m currently diving into projects that fuse technology with creative teaching, like developing interactive graphic tutorials and designing visual learning kits that simplify complex ideas. I’m experimenting with tools such as Figma for design, alongside coding basics in HTML/CSS and JavaScript to build small educational web apps. My focus is on creating open-source resources that fellow students and teachers can freely use and contribute to, while I keep refining my skills in both design and tech.
+## 💻 Hard Skills & Technologies
+- **Deploying an Amazon S3 Bucket** - I created and configured S3 buckets for secure file storage and static website hosting. Through this, I learned how to manage permissions, apply bucket policies, enable public access safely, and organize data in the cloud.
+- **Building Cloud Architecture on AWS** - I designed basic cloud architectures using EC2, VPC, subnets, security groups, and IAM. This helped me understand how different AWS services connect, how traffic flows through a network, and how to build scalable and secure environments.
+- **Implementing Monitoring with CloudWatch** - I used CloudWatch to monitor resources, review logs, and track performance metrics, gaining experience in identifying issues and maintaining system health.
+- **Configuring Identity and Access Management (IAM)** - I created users, roles, and policies to control access to AWS resources, learning the importance of least-privilege security and proper account management.
+- **Developing an Amazon Lex Chatbot** - I built a basic chatbot using Amazon Lex, where I learned how to create intents, slots, and responses. This project improved my understanding of conversational AI and how cloud services can be integrated into applications.
+- **Linux System Administration** - I worked in Linux environments using Bash to manage files, permissions, install packages, and troubleshoot systems, strengthening my command-line skills.
+- **Networking Configuration** - I applied subnetting, CIDR, security groups, and NACLs to configure cloud networks and improve my understanding of secure communication between services.
+## 🤝 Soft Skills
 
-## 📚 Currently Learning
-- AWS fundamentals
-- Git & GitHub
-- Basic web development (HTML, CSS, JS)
-- Exploring AI concepts through beginner projects
-## 💡 Passionate About
-- Cloud computing
-- Artificial Intelligence
-- Tech for social good
-- Learning and helping others grow in tech
-- Teaching
-## 🤝 Looking to Collaborate On
-- Beginner-friendly open source projects
-- Simple websites or cloud-based apps
-- Tech community events or initiatives
-## 🙋🏽‍♂ Looking to Help With
-- Basic cloud/AWS questions
-- Study tips for beginners
-- Motivation and resources for new tech learners
-## ❓ Ask Me About
-- Getting started in tech with no experience
-- Free learning platforms and resources
-- My journey and tips for beginners
+ ‧₊˚ ☁️⋅♡🪐༘⋆ Cloud Concepts Domain
 
-## 📂 Projects
+- **Understanding Cloud Value & Business Impact** -
+I learned how cloud computing supports business goals through scalability, reliability, and cost efficiency. This helped me develop a broader mindset beyond technical tasks, understanding why cloud solutions matter.
+- **Cloud Adoption Awareness** - 
+I gained insight into how organizations migrate to the cloud and the importance of planning, flexibility, and continuous improvement during digital transformation.
 
-A showcase of the hands on projects I am currently completing during the intensive AWS re/Start program. Through these practical exercises, I've built a strong foundation in cloud computing and gained valuable experience in designing, deploying, and managing solutions on Amazon Web Services.
+🛡️🔐 Security & Compliance Domain
+
+- **Security Responsibility Awareness** -
+I learned the AWS Shared Responsibility Model, helping me understand what AWS manages versus what customers must secure.
+- **Risk Awareness & Accountability** -
+Developed awareness of access control, MFA, and data protection, reinforcing responsibility in handling systems and information securely.
+- **Compliance Mindset** -
+Learned why organizations must follow policies, standards, and best practices to protect data and meet regulatory requirements
+
+📡 Technology Domain
+
+- **Structured Problem Solving** - Improved my ability to analyze technical challenges logically and resolve issues step by step.
+- **Adaptability to New Tools** -
+Learned to quickly adjust to new platforms like AWS, Linux, and Amazon Lex while staying focused on learning outcomes.
+- **Documentation Discipline** 
+Developed habits for recording processes and configurations clearly for future reference.
+
+💰 Billing, Pricing & Support Domain
+
+- **Cost Awareness** -
+Learned how cloud costs are calculated and why monitoring usage is important to avoid unnecessary spending.
+- **Customer Support Understanding** -
+Gained knowledge of AWS support plans and learned how to seek help using documentation and support channels.
+- **Resource Management** - 
+Developed responsibility in creating, monitoring, and cleaning up resources to maintain efficiency.
+## 📁 Projects
+A showcase of the hands on projects I completed during the intensive AWS re/Start program. Through these practical exercises, I've built a strong foundation in cloud computing and gained valuable experience in designing, deploying, and managing solutions on Amazon Web Services.
 
 **Project 1: S3 Static Website Hosting**
 
@@ -74,10 +88,9 @@ This project is a chatbot developed by our group to provide interactive and inte
 https://github.com/lindokuhlehoratiousdlamini-tech/aws-reStart-Journey/tree/main/Project/ChatBot
 
 ## 📫 Let's Connect
-- *LinkedIn*: https://www.linkedin.com/in/lindoe-precious-6a5036349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- *Email*: lindokuhlehoratiousdlamini@gmail.com
+- *LinkedIn*: https://www.linkedin.com/in/lindoe-precious-6a5036349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app | *Email*: lindokuhlehoratiousdlamini@gmail.com
 
-## ***Let's connect, collaborate, and build something great together!***
+## ***Thank you for visiting my page and exploring my work!***
 
 <!--
 **lindokuhlehoratiousdlamini-tech/lindokuhlehoratiousdlamini-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
