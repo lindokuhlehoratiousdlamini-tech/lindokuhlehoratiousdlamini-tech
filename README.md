@@ -22,7 +22,16 @@ This holistic experience has equipped me with both the technical acumen and the 
 <img width="200" height="200" alt="badge" src="https://github.com/user-attachments/assets/c8491ef0-4af5-47a3-b21a-0802f15381a7" />
 <img width="200" height="200" alt="519251329-8dfd8362-8a74-42c0-bdc1-69c83b89c411" src="https://github.com/user-attachments/assets/b6cbf1d0-6094-445a-b417-b1c1c8e928d9" />
 </p>
+
 ## 🏅 Certificates
+<img width="200" height="200" alt="521748841-8b2f9155-47cb-40b7-a658-ecc68c9a58a4" src="https://github.com/user-attachments/assets/19408ab1-b175-4646-b5ce-2b0c45d8fde7" />
+<img width="200" height="200" alt="521748728-89b5ac06-b0d3-477c-be77-b75858da9682" src="https://github.com/user-attachments/assets/b73a1a26-d21a-4eb4-a967-6c9eb4dbc171" />
+<img width="200" height="200" alt="521748646-410b51c4-cbdf-4e57-a494-bdb52d2fea50" src="https://github.com/user-attachments/assets/83ddcaf2-89c8-46c2-b2f9-c7b041b8b763" />
+<img width="200" height="200" alt="521748528-047a16df-8931-4543-9743-6188e060c2d9" src="https://github.com/user-attachments/assets/b85f3e14-2a93-4583-84dd-2a1ac750c11d" />
+<img width="200" height="200" alt="517415358-7df1824b-c4bc-4733-8044-f1640b6204db" src="https://github.com/user-attachments/assets/1a3caf6d-7a2c-4f37-b13a-89c56325ef4a" />
+<img width="200" height="200" src="https://github.com/user-attachments/assets/2cd1b8e6-ab27-4e8f-8c03-fb4249a6c208" />
+<img width="200" height="200" src="https://github.com/user-attachments/assets/915f012e-dfaf-4676-a4ba-11d2e3522181" />
+
 
 ## 💻 Hard Skills & Technologies
 - **Deploying an Amazon S3 Bucket** - I created and configured S3 buckets for secure file storage and static website hosting. Through this, I learned how to manage permissions, apply bucket policies, enable public access safely, and organize data in the cloud.
