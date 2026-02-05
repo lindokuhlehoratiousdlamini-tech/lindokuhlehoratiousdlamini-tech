@@ -31,6 +31,7 @@ This holistic experience has equipped me with both the technical acumen and the 
 <img width="200" height="200" alt="517415358-7df1824b-c4bc-4733-8044-f1640b6204db" src="https://github.com/user-attachments/assets/1a3caf6d-7a2c-4f37-b13a-89c56325ef4a" />
 <img width="200" height="200" src="https://github.com/user-attachments/assets/2cd1b8e6-ab27-4e8f-8c03-fb4249a6c208" />
 <img width="200" height="200" src="https://github.com/user-attachments/assets/915f012e-dfaf-4676-a4ba-11d2e3522181" />
+<img width="200" height="200" alt="Screenshot from 2026-02-05 15-35-51" src="https://github.com/user-attachments/assets/cd5f7ae3-19c3-4136-ad67-8ab3267dab3b" />
 
 
 ## 💻 Hard Skills & Technologies
