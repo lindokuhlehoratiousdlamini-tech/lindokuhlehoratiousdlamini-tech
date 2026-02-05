@@ -8,6 +8,15 @@ I am deeply passionate about cloud computing because I believe it is more than j
 
 I am coming from a non-technical background, I once thought tech was too complex to be a space I could thrive in until I joined a Robotics club back in high school. That experience planted the first seed of my interest in technology. Since then, I’ve reignited that spark by joining AWS re/Start, a life changing opportunity that has helped me build foundational cloud computing knowledge and hands-on experience in areas like Linux, AWS services, security, networking, and more. I've learned to deploy static websites on S3, work with databases, and understand how cloud infrastructure supports real-world applications.
 
+## AWS re/Start Journey
+Recently, I completed the intensive AWS re/Start program, where I built a robust foundation in cloud technologies. Beyond the practical projects showcased here, the program provided me with:
+- Comprehensive theoretical knowledge of core AWS services and their interconnections.
+- A deep understanding of cloud best practices in areas like security, cost optimization, and operational excellence.
+- Essential problem-solving methodologies tailored for cloud environments.
+- Crucial professional skills, including teamwork, presentation, and effective technical communication.
+
+This holistic experience has equipped me with both the technical acumen and the client-centric approach vital for a successful career in cloud solutions. I am now focused on securing an entry-level cloud position where I can continue to learn, grow, and gain real-world experience, building a solid technical foundation to progress into a Cloud Solutions Architect role.
+
 ## 🔧 Currently Working On
 I’m currently diving into projects that fuse technology with creative teaching, like developing interactive graphic tutorials and designing visual learning kits that simplify complex ideas. I’m experimenting with tools such as Figma for design, alongside coding basics in HTML/CSS and JavaScript to build small educational web apps. My focus is on creating open-source resources that fellow students and teachers can freely use and contribute to, while I keep refining my skills in both design and tech.
 
@@ -35,8 +44,10 @@ I’m currently diving into projects that fuse technology with creative teaching
 - Free learning platforms and resources
 - My journey and tips for beginners
 ## ✨Badges
-
-<img width="340" height="340" alt="519251329-8dfd8362-8a74-42c0-bdc1-69c83b89c411" src="https://github.com/user-attachments/assets/b6cbf1d0-6094-445a-b417-b1c1c8e928d9" />
+<p align="center">
+<img width="200" height="200" alt="badge badge" src="https://github.com/user-attachments/assets/d533c513-ea34-44e6-889c-887ca16807a3" />
+<img width="200" height="200" alt="badge" src="https://github.com/user-attachments/assets/c8491ef0-4af5-47a3-b21a-0802f15381a7" />
+<img width="200" height="200" alt="519251329-8dfd8362-8a74-42c0-bdc1-69c83b89c411" src="https://github.com/user-attachments/assets/b6cbf1d0-6094-445a-b417-b1c1c8e928d9" />
 
 ## 📂 Projects
 
