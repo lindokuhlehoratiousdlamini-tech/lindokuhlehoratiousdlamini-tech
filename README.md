@@ -22,6 +22,7 @@ This holistic experience has equipped me with both the technical acumen and the 
 <img width="200" height="200" alt="badge" src="https://github.com/user-attachments/assets/c8491ef0-4af5-47a3-b21a-0802f15381a7" />
 <img width="200" height="200" alt="519251329-8dfd8362-8a74-42c0-bdc1-69c83b89c411" src="https://github.com/user-attachments/assets/b6cbf1d0-6094-445a-b417-b1c1c8e928d9" />
 </p>
+## 🏅 Certificates
 
 ## 💻 Hard Skills & Technologies
 - **Deploying an Amazon S3 Bucket** - I created and configured S3 buckets for secure file storage and static website hosting. Through this, I learned how to manage permissions, apply bucket policies, enable public access safely, and organize data in the cloud.
