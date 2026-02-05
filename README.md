@@ -6,10 +6,10 @@ I’m passionate about blending technology, teaching, and graphic design to crea
 
 I am coming from a non-technical background, I once thought tech was too complex to be a space I could thrive in until I joined a Robotics club back in high school. That experience planted the first seed of my interest in technology. Since then, I’ve reignited that spark by joining AWS re/Start, a life changing opportunity that has helped me build foundational cloud computing knowledge and hands-on experience in areas like Linux, AWS services, security, networking, and more. I've learned to deploy static websites on S3, work with databases, and understand how cloud infrastructure supports real-world applications.
 
-# 🔧 Currently Working On
+## 🔧 Currently Working On
 I’m currently diving into projects that fuse technology with creative teaching, like developing interactive graphic tutorials and designing visual learning kits that simplify complex ideas. I’m experimenting with tools such as Figma for design, alongside coding basics in HTML/CSS and JavaScript to build small educational web apps. My focus is on creating open-source resources that fellow students and teachers can freely use and contribute to, while I keep refining my skills in both design and tech.
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 - AWS fundamentals
 - Git & GitHub
 - Basic web development (HTML, CSS, JS)
