@@ -88,7 +88,7 @@ This project is a chatbot developed by our group to provide interactive and inte
 https://github.com/lindokuhlehoratiousdlamini-tech/aws-reStart-Journey/tree/main/Project/ChatBot
 
 ## 📫 Let's Connect
-- *LinkedIn*: https://www.linkedin.com/in/lindoe-precious-6a5036349 *Email*: lindokuhlehoratiousdlamini@gmail.com
+ *LinkedIn*: https://www.linkedin.com/in/lindoe-precious-6a5036349 |*Email*: lindokuhlehoratiousdlamini@gmail.com
 
 *Thank you for visiting my page and exploring my work!*
 
